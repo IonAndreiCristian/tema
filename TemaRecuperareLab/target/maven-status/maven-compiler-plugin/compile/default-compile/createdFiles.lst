@@ -1,0 +1,11 @@
+com\ace\pluginman\PluginManager.class
+com\ace\pluginman\PluginManager$1.class
+com\ace\menu\ConsoleController.class
+com\ace\recuperare\Dozator.class
+com\ace\menu\MenuItem.class
+com\ace\recuperare\Reteta.class
+com\ace\recuperare\MainClass.class
+com\ace\menu\IMenuItem.class
+com\ace\menu\IExecutableAction.class
+com\ace\menu\ApplicationMenu.class
+com\ace\menu\Menu.class
